@@ -19,6 +19,8 @@ class Student {
     void display() {
         System.out.println("Student Name: " + name);
         System.out.println("Student Age: " + getAge() + " years");
+        System.out.println("This is lab");
+        System.out.println("This is 2nd lab");
     }
 }
 
